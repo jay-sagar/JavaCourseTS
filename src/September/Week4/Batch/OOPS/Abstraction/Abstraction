@@ -1,0 +1,28 @@
+hiding the details and only showing the essential data is called abstraction,
+there are two ways to achieve the abstraction in java,
+ 1: abstract class
+ 2: interface
+
+ A class extends a another class
+ A interface extends a another interface
+ A class implements a another interface
+
+ 1: If you declare any class with abstract then it is called the abstract class
+    It is 0% to 100% abstraction
+    Can't create obj of abstraction
+
+it can be used with class and method
+It can't be instantiated
+It can have constructor and static method also
+it can have final method
+
+2: interface is a blueprint of class => according to java 1.7
+    100% abstraction
+    we can't instantiate
+    it don't contains constructor
+
+
+# Pattern Design
+1. Factory Design pattern
+2. Adaptor Design pattern
+3. Singleton Design pattern
