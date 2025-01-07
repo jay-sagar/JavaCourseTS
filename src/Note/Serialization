@@ -1,0 +1,5 @@
+Maker Interface => Marker Interface is an interface which does not have any method or field
+
+Serializable is a markerInterface which is used to serialize and deserialize the java object
+Serialization is the mechanism of converting object into byte stream
+Deserialization is the reverse process where byte stream is converted into real java object
