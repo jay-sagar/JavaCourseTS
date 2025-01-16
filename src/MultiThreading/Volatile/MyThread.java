@@ -1,6 +1,6 @@
 package MultiThreading.Volatile;
 
-//
+// Volatile -> it is a keyword is used to indicate that the variable value may be change my multiple thread simultaneously
 public class MyThread extends Thread{
     public volatile boolean isRunning = true;
 
