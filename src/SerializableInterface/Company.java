@@ -2,6 +2,7 @@ package SerializableInterface;
 
 import java.io.*;
 
+// transient -> it will not included in serialization ( even when sending to databases )
 class Employee implements Serializable {
     private long id;
     private String name;
